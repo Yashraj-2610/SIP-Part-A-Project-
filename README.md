@@ -40,4 +40,4 @@ The final model achieved a lower RMSE than the baseline model.
 
 The complete implementation is available in:
 
-`Car-Price-Prediction.ipynb`
+`car prize prediction by 202501110033.ipynb`
